@@ -1,0 +1,9 @@
+C:\Users\usuario\Source\Repos\CSWLib\CSWLib\CSWLib.Entity\bin\Debug\CSWLib.Entity.dll.config
+C:\Users\usuario\Source\Repos\CSWLib\CSWLib\CSWLib.Entity\bin\Debug\CSWLib.Entity.dll
+C:\Users\usuario\Source\Repos\CSWLib\CSWLib\CSWLib.Entity\bin\Debug\CSWLib.Entity.pdb
+C:\Users\usuario\Source\Repos\CSWLib\CSWLib\CSWLib.Entity\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Source\Repos\CSWLib\CSWLib\CSWLib.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Source\Repos\CSWLib\CSWLib\CSWLib.Entity\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Source\Repos\CSWLib\CSWLib\CSWLib.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Source\Repos\CSWLib\CSWLib\CSWLib.Entity\obj\Debug\CSWLib.Entity.dll
+C:\Users\usuario\Source\Repos\CSWLib\CSWLib\CSWLib.Entity\obj\Debug\CSWLib.Entity.pdb
